@@ -8,7 +8,7 @@ Built with **Streamlit** and powered by **Groq**, it delivers fast, strategic in
 
 ## 🚀 Live App
 
-[Launch Foundry AI](https://your-deployment-link.streamlit.app)
+[Launch Foundry AI](https://foundry-ai.streamlit.app)
 
 ---
 
